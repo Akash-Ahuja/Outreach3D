@@ -1,0 +1,14 @@
+
+.header {
+    padding: 80px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Increase the font size of the heading */
+  .header h1 {
+    font-size: 40px;
+  }
+
+  
